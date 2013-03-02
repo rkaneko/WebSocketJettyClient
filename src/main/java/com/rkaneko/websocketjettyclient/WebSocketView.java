@@ -153,7 +153,7 @@ public class WebSocketView extends javax.swing.JFrame {
     }
     
     /**
-     * Append a recieved message to logTextArea .
+     * Append a received message to logTextArea .
      * @param text 
      */
     private void appendLog(String text) {
